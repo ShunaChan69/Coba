@@ -1,21 +1,21 @@
 //=============『 MAIN 』================== //
-global.owner = ['6285746030186', '6285607831410'] // Ganti Jadi Nomormu
+global.owner = ['6287831305832', '6287831305832'] // Ganti Jadi Nomormu
 global.mods = ['0'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
-global.instagram = '-' // Ig Kamu
-global.github = 'https://github.com/ZennRull' // Github kamu (biarin aja kalau gaada)
+global.nameowner = 'Reyu'
+global.numberowner = '6287831305832' // Ganti Jadi Nomor mu
+global.instagram = 'https://www.instagram.com/reyhan_yoo/' // Ig Kamu
+global.github = 'https://github.com/Mashann' // Github kamu (biarin aja kalau gaada)
 global.dana = '-' //Dana pulsa gopay
-global.pulsa = '-'
-global.gopay = '-'
+global.pulsa = '6287831305832'
+global.gopay = '6287831305832'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nama Bot' // Nama Bot
-global.gc = 'https://t.me/pixelbotwhatsapp'
-global.web = 'https://t.me/pixelbotwhatsapp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Reyu_Bots' // Nama Bhttps://www.instagram.com/reyhan_yoo/ot
+global.gc = '-'
+global.web = 'https://www.instagram.com/reyhan_yoo/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
 
 //=======『 Tampilan Dan Lainnya 』============//
