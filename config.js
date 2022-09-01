@@ -1,5 +1,5 @@
 //=============『 MAIN 』================== //
-global.owner = ['6287831305832', '6287831305832'] // Ganti Jadi Nomormu
+global.owner = ['62895411954396', '6287831305832'] // Ganti Jadi Nomormu
 global.mods = ['0'] 
 global.prems = [''] 
 
