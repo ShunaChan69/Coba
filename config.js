@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.wait = '_*Loading...*_'
 global.stiker_wait = '*「 Sticker sedang dibuat 」*'
-global.packname = 'By PixelBot\nTelegram:'
+global.packname = 'WhatsApp Bot'
 global.author = 'PixelBot\nhttps://t.me/pixelbotwhatsapp'
 
 //=============『 Apikey 』================== //
